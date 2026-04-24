@@ -3,7 +3,7 @@
 code for mobility spectrum method
 
 
-The related paper is:
+The related papers are:
 
 1. Ting-Na Shao, Zi-Tao Zhang, Yu-Jie Qiao, Qiang Zhao, Hai-Wen Liu*, Xin-xiang Chen, Wei-Min Jiang, Chun-Li Yao, Xing-Yu Chen, Mei-Hui Chen, Rui-Fen Dou, Chang-Min Xiong, Guang-Ming Zhang*, Yi-Feng Yang*, Jia-Cai Nie*, Kondo scattering in underdoped Nd1−xSrxNiO2 infinite-layer superconducting thin films, National Science Review, 10(11), nwad112 (2023), DOI: https://doi.org/10.1093/nsr/nwad112.
 
