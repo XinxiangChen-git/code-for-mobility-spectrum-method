@@ -28,7 +28,7 @@ need FFTW
 
 For example:
 
-need \sigma_0.txt and 100K.txt
+need segma0.txt and 100K.txt
 
 
 gcc main.c -o mobility -lfftw3 -lm
